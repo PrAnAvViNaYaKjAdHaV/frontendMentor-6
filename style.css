@@ -116,7 +116,7 @@ button {
   @media screen and (max-width: 750px){
     .container{
       margin: 0;
-      padding-top: 20rem;
+      padding-top: 30rem;
     }
     .card{
       width: 100%;
